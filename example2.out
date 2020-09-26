@@ -1,0 +1,5 @@
+Bundle file:///Users/kitsonk/github/bundle-examples/example2.ts
+
+thread 'main' has overflowed its stack
+fatal runtime error: stack overflow
+zsh: abort      deno bundle example2.ts example2.bundle.js > example2.out
