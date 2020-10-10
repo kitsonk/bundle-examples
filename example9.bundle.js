@@ -1,7 +1,6 @@
-const _a = function() {
-    const a = "a";
+const a = function() {
     return {
-        a
+        a: "a"
     };
 }();
-export { _a as a };
+export { a };
