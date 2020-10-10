@@ -104,3 +104,10 @@ error: Uncaught ReferenceError: AssertionError is not defined
     at assert (file:///Users/kitsonk/github/bundle-examples/example6.bundle.js:97:9)
     at file:///Users/kitsonk/github/bundle-examples/example6.bundle.js:100:1
 ```
+
+## Example 7
+
+```
+false file:///Users/kitsonk/github/bundle-examples/f.ts
+true file:///Users/kitsonk/github/bundle-examples/example7.ts
+```

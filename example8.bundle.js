@@ -11,7 +11,7 @@ class G {
 }
 const g1 = [];
 class H {
-    #g1;
+    #g;
     constructor(shared1){
         if (shared1) {
             this.#g = g1;
